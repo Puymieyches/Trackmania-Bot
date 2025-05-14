@@ -5,5 +5,7 @@
     "account_id": "5c239c40d738b2d8082f94dd3eb899f4",
   
     // Entry point for your Worker (default: index.js)
-    "main": "./src/index.js"
+    "main": "./src/index.js",
+
+    "compatibility_date": "2025-05-14"
 }
